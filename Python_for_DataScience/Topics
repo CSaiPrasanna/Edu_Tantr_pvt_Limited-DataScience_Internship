@@ -1,0 +1,33 @@
+1. Create NumPy arrays from Python Data Structures, Intrinsic NumPy objects and Random  
+Functions. 
+2. Manipulation of NumPy arrays- Indexing, Slicing, Reshaping, Joining and Splitting. 
+3. Computation on NumPy arrays using Universal Functions and Mathematical methods. 
+4. Import a CSV file and perform various Statistical and Comparison operations on     
+rows/columns.  
+5. Load an image file and do crop and flip operation using NumPy Indexing. 
+6. Write a program to compute summary statistics such as mean, median, mode, standard  
+deviation and variance of the given different types of data. 
+7. Create Pandas Series and Data Frame from various inputs. 
+8. Import any CSV file to Pandas Data Frame and perform the following:  
+(a) Visualize the first and last 10 records  
+(b) Get the shape, index and column details. 
+(c) Select/Delete the records(rows)/columns based on conditions.  
+(d) Perform ranking and sorting operations.  
+(e) Do required statistical operations on the given columns.  
+(f) Find the count and uniqueness of the given categorical values.  
+(g) Rename single/multiple columns.  
+9. Import any CSV file to Pandas DataFrame and perform the following: 
+(a) Handle missing data by detecting and dropping/ filling missing values.  
+(b) Transform data using apply() and map() method.  
+(c) Detect and filter outliers.  
+(d) Perform Vectorized String operations on Pandas Series.  
+(e) Visualize data using Line Plots, Bar Plots, Histograms, Density Plots and Scatter  
+Plots. 
+10. Write a program to demonstrate Linear Regression analysis with residual plots on a given  
+data set 
+11. Write a program to implement the Naïve Bayesian classifier for a sample training data set  
+stored as a .CSV file. Compute the accuracy of the classifier, considering few test data sets. 
+12. Write a program to implement k-Nearest Neighbour algorithm to classify the iris data set.  
+Print both correct and wrong predictions using Python ML library classes. 
+13. Write a program to implement k-Means clustering algorithm to cluster the set of data stored  
+in .CSV file. Compare the results of various “k” values for the quality of clustering.
